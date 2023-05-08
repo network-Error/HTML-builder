@@ -18,4 +18,4 @@ fs.readdir(pathToOldFiles, (err, files) => {
         })
     })
     console.log('Копирование файлов завершено!');
-})
+});
